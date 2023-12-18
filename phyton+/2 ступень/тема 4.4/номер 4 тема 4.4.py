@@ -1,0 +1,6 @@
+print(str([input("-")]))
+
+
+
+
+

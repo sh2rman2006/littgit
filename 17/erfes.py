@@ -1,4 +1,2 @@
-a=filter(lambda x:x>69,[i for i in range(1,101)])
-for i in a:
-    if i >79:
-        print(i)
+a=[123,2345,53,464,345,321,4235,3452345,45,1]
+print(*filter(lambda x:x>70,a))

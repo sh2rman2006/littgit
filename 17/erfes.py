@@ -95,47 +95,44 @@
 # print(f(15))
 """19"""
 def f(n,s):
-    if (n==5 or n==3) and s>25:
-        return 1
-    if n==5 and s<26:
-        return 0
-    if n<5 and s>25:
-        return 0
-    if n%2==0 and s%2==0:
-        return f(n+1,s+1) or  f(n+1,s+1)
-
-    elif n%2==0 and s%2!=0:
-        return f(n+1,s+1) or  f(n+1,s+1) or f(n+1,s*2)
-
-    if n % 2 != 0 and s % 2 == 0:
-        return f(n + 1, s + 1) and f(n + 1, s + 1)
-
-    elif n % 2 != 0 and s % 2 != 0:
-        return f(n + 1, s + 1) and f(n + 1, s + 1) and f(n + 1, s * 2)
-
-for i in range(1,26):
-    if f(1,i):
-        print(i)
-print("/"*10)
-def f(n,s):
     if n==3  and s>25:
         return 1
     if n==3 and s<26:
         return 0
     if n<3 and s>25:
         return 0
-    if n%2==0 and s%2==0:
-        return f(n+1,s+1) or  f(n+1,s+1)
+    if n%2==0:
+        if s%2==0:
+            return f(n+1, s+1) or f(n+1, s+2)
+        else:
+            return f(n+1, s+1) or f(n+1, s+2) or f(n+1, s*2)
+    else:
+        if s%2==0:
+            return f(n+1, s+1) and f(n+1, s+2)
+        else:
+            return f(n+1, s+1) and f(n+1, s+2) and f(n+1, s*2)
 
-    elif n%2==0 and s%2!=0:
-        return f(n+1,s+1) or  f(n+1,s+1) or f(n+1,s*2)
-
-    if n % 2 != 0 and s % 2 == 0:
-        return f(n + 1, s + 1) and f(n + 1, s + 1)
-
-    elif n % 2 != 0 and s % 2 != 0:
-        return f(n + 1, s + 1) and f(n + 1, s + 1) and f(n + 1, s * 2)
-
+def f1(n,s):
+    if (n==3 or n ==5)  and s>25:
+        return 1
+    if n==5 and s<26:
+        return 0
+    if n<5 and s>25:
+        return 0
+    if n%2==0:
+        if s%2==0:
+            return f1(n+1, s+1) or f1(n+1, s+2)
+        else:
+            return f1(n+1, s+1) or f1(n+1, s+2) or f1(n+1, s*2)
+    else:
+        if s%2==0:
+            return f1(n+1, s+1) and f1(n+1, s+2)
+        else:
+            return f1(n+1, s+1) and f1(n+1, s+2) and f1(n+1, s*2)
 for i in range(1,26):
     if f(1,i):
+        print(i)
+print(1111111111111)
+for i in range(1,26):
+    if f1(1,i):
         print(i)

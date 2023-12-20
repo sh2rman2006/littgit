@@ -5,7 +5,6 @@ def perevod(n,s):
         n//=s
     return string[::-1]
 
-print(5)
 def perevod(n,s):
     a=[]
     while n>0:

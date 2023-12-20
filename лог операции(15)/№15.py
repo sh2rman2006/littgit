@@ -32,5 +32,12 @@
         if count==299:
             print(a)"""
 
+# for a in range(1,300):
+#     count=0
+#     for x in range(1,300):
+#         if( (x%2==0)<=(not (x%5==0)))or (x+a>=90):
+#             count+=1
+#         if count==299:
+#             print(a)
 
 

@@ -234,3 +234,14 @@
 #
 #         print(i)
 
+for i in range(113000000,114000000):
+    ch=0
+    k=""
+    if i%2==0:
+        ch-=1
+    for d in range(2,i//2+1,2):
+        if i%d==0:
+            ch+=1
+            k=k+","+str(d)
+    if ch==3:
+        print(i,k)

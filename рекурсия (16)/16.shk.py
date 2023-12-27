@@ -6,12 +6,13 @@ def g(n):
     if n>=2:
         return a[n//2]+a[n%2]
 
-a=[0]*(100001)
+a=[0]*(2**30+1)
 count=0
-for i in range(1,100001):
+for i in range(1,2**30):
     a[i]=g(i)
-for i in range(1,100001):
-    print(a[i])
+for i in range(1,2**30):
+    if a[i]==27:
+        print(i)
 #     if a[i]==27:
 #         count+=1
 # print(count)

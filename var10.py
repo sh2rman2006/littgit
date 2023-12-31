@@ -137,6 +137,33 @@
 #     if str(m)[-2:]=="30":
 #         print(i,m)
 
+#6
+# from turtle import *
+# a=Screen()
+# a.screensize(10000,10000)
+#
+# left(90)
+# ms=25
+# tracer(0)
+# for i in range(10):
+#     forward(7*ms)
+#     right(120)
+# pu()
+# for x in range(-10,51):
+#     for y in range(-10,51):
+#         goto(x*ms,y*ms)
+#         dot(5)
+# done()
+#13
 
-
+from ipaddress import *
+mi=10000000
+for i in range(9):
+    a=ip_network(f"199.59.129.3/255.255.{int('1'*i+'0'*(8-i),2)}.0",False)
+    print(a)
+    for i in a:
+        s=bin(int(i))[2:]
+        if s[:-16].count("1")>=s[-16:].count("1"):
+            a=
+            mi=min(mi)
 

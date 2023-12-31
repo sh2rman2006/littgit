@@ -125,6 +125,18 @@
 #         return 0
 #     return f(n+2,s)+f(n+7,s)
 # print(f(7,51))
+#25
+# for  i in range(860000,10000000):
+#     mi=100000
+#     ma=-100000
+#     for d in range(2,i-1):
+#         if i%d==0:
+#             mi=min(mi,d)
+#             ma=max(ma,d)
+#     m=ma-mi
+#     if str(m)[-2:]=="30":
+#         print(i,m)
+
 
 
 

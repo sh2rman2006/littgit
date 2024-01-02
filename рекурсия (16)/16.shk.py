@@ -12,7 +12,8 @@ for i in range(1,2**30):
     a[i]=g(i)
 for i in range(1,2**30):
     if a[i]==27:
-        print(i)чя#     if a[i]==27:
+        print(i)
+        #if a[i]==27:
 #         count+=1
 # print(count)
 

@@ -13,7 +13,7 @@ for i in range(1,2**30):
 for i in range(1,2**30):
     if a[i]==27:
         print(i)
-#     if a[i]==27:
+        #if a[i]==27:
 #         count+=1
 # print(count)
 

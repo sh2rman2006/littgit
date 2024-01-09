@@ -176,4 +176,4 @@ for i in range(1,9):
 #         if (p[:-16].count('1') >= p[-16:].count('1')) == False:
 #             break
 #     else:
-#         print(a)
+#         print(a)awdsasdawdasa

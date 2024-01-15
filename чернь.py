@@ -21,9 +21,14 @@ for i in range(1273547,1273547*5):
         m-=int(i**0.5)
     ost=m%100000
     for ostdel in range(2,int(i**0.5)):
-        if i%ostdel==0:
-            count+=2
-        if ost**0.5%1==0:
-            count+=1
+        if m%ostdel==0:
+            break
+        if ost ** 0.5 % 1 == 0:
+            break
+    else:
+        print(i,m)
+
+
+
 
 

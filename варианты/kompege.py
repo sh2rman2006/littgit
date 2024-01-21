@@ -81,7 +81,87 @@
 #     if n<=2024:
 #         return n*f(n+1)
 # print(f(2022)/f(2024))
+"""19"""
+# def f(n,s):
+#     if n==3 and s>128:
+#         return 1
+#     if n==3 and s<129:
+#         return 0
+#     if n<3 and s>128:
+#         return 0
+#     if n%2==0:
+#         return f(n+1,s+1) or f(n+1,s*2)
+#     else:
+#         return f(n + 1, s + 1) and f(n + 1, s * 2)
+# for i in range(1,128):
+#     if f(1,i):
+#         print(i)
+"""20"""
+# def f(n,s):
+#     if n==4 and s>128:
+#         return 1
+#     if n==4 and s<129:
+#         return 0
+#     if n<4 and s>128:
+#         return 0
+#     if n%2!=0:
+#         return f(n+1,s+1) or f(n+1,s*2)
+#     else:
+#         return f(n + 1, s + 1) and f(n + 1, s * 2)
+# for i in range(1,128):
+#     if f(1,i):
+#         print(i)
+"""21"""
+# def f(n,s):
+#     if (n==3 or n==5) and s>128:
+#         return 1
+#     if n==5 and s<129:
+#         return 0
+#     if n<5 and s>128:
+#         return 0
+#     if n%2==0:
+#         return f(n+1,s+1) or f(n+1,s*2)
+#     else:
+#         return f(n + 1, s + 1) and f(n + 1, s * 2)
+# a=set()
+# for i in range(1,128):
+#     if f(1,i):
+#         a.add(i)
+#         print(i)
+# print("?///////////")
+#
+# def f(n,s):
+#     if n==3 and s>128:
+#         return 1
+#     if n==3 and s<129:
+#         return 0
+#     if n<3 and s>128:
+#         return 0
+#     if n%2==0:
+#         return f(n+1,s+1) or f(n+1,s*2)
+#     else:
+#         return f(n + 1, s + 1) and f(n + 1, s * 2)
+# b=set()
+# for i in range(1,128):
+#     if f(1,i):
+#         b.add(i)
+#         print(i)
+# print(a-b)
 
+"""23"""
+# def f(n,s):
+#     if n==s:
+#         return 1
+#     if n>s or n==11:
+#         return 0
+#     return f(n+1,s)+f(n*2,s)+f(n**2,s)
+# print(f(2,20))
+
+"""25"""
+from fnmatch import *
+for i in range(2024,10**10+1,2024):
+    if fnmatch(str(i),"1?2157*4"):
+        print(i,i//2024)
 
 
 

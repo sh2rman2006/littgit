@@ -74,7 +74,13 @@
 #     if count==300**2:
 #         print(a)
 """16"""
-#
+# from sys import *
+# def f(n):
+#     if n>2024:
+#         return n
+#     if n<=2024:
+#         return n*f(n+1)
+# print(f(2022)/f(2024))
 
 
 

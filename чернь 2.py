@@ -58,9 +58,9 @@
 # print(ma)
 
 a = [i for i in range(1,31)]
-b = [i for i in range(20,41)]
-
+b = [i for i in range(1,41)]
 
 for a,b in zip(a,b):
     if a==b:
         print(a,b)
+

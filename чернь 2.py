@@ -42,20 +42,21 @@
 # print(*zip(a, b))
 
 
+#
+# a="124415694313434323451"
+# print(len(a))
+# ma=0
+# for i in range(len(a)):
+#     if a[i]=="1":
+#         count=0
+#         ln=0
+#         for k in range(i+1,len(a)):
+#             if a[k]=="1":
+#                 ln+=1
+#                 count+=1
+#             else:
+#                 count+=1
+#             if ln==2:
+#                 ma=max(ma,count)
+# print(ma)
 
-a="124415694313434323451"
-print(len(a))
-ma=0
-for i in range(len(a)):
-    if a[i]=="1":
-        count=0
-        ln=0
-        for k in range(i+1,len(a)):
-            if a[k]=="1":
-                ln+=1
-                count+=1
-            else:
-                count+=1
-            if ln==2:
-                ma=max(ma,count)
-print(ma)

@@ -37,9 +37,6 @@
 
 
 
-# a = [123123]
-# b = [131313]
-# print(*zip(a, b))
 
 
 #
@@ -60,3 +57,10 @@
 #                 ma=max(ma,count)
 # print(ma)
 
+a = [i for i in range(1,31)]
+b = [i for i in range(20,41)]
+
+
+for a,b in zip(a,b):
+    if a==b:
+        print(a,b)

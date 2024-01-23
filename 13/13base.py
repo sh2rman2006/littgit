@@ -6,5 +6,3 @@ for i in a:
     if ln.count("1")%2==0:
         count+=1
 print(count)
-
-

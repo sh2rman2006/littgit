@@ -1,3 +1,4 @@
+"""2"""
 # print("x y z w")
 # for x in range(2):
 #     for y in range(2):
@@ -193,6 +194,4 @@
 #         maxco = max(maxco, count)
 #         count = 1
 # print(maxco)
-
-
 

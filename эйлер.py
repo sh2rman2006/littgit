@@ -58,5 +58,34 @@ from math import *
 # a=permutations("0123456789",r=10)
 # b=[list(i) for i in a]
 # print(b[999999])
+"""25"""
+# s=[1,1]
+# def fib(a):
+#     f=s[-1]+s[-2]
+#     s.append(f)
+#     if len(s)==a:
+#         return s
+#     else:
+#         return fib(a)
+# print(fib(12))
+# работает без перебора и не на больших числах
+"""29"""
+# a=[i**d for i in range(2,101) for d in range(2,101)]
+# a.sort()
+# b=set()
+# for i in a:
+#     b.add(i)
+# print(len(b))
+"""30"""
+# maxsm=0
+# for i in range(1,10000000):
+#     sm=0
+#     for j in str(i):
+#         sm+=int(j)**5
+#     if sm==i:
+#         maxsm+=sm
+#         print(i)
+# print(maxsm,"///")
+
 
 

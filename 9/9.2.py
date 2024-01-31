@@ -6,4 +6,4 @@ for i in open("9.2.csv"):
     if len(rep)==6 and (max(rep)+min(rep))/2<net[0]:
         count+=1
 print(count)
-
+print("исходник")

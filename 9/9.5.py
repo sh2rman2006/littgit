@@ -5,7 +5,7 @@ for i in open("9.5.csv"):
     s=[i for i in a if i!=max(a) and i!=min(a)]
     s1=0
     for k in s:
-        s1+=k
+        s1+=k**2
     if sm>s1:
         count+=1
     print(a,s)

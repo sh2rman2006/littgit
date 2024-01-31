@@ -11,13 +11,9 @@ from ipaddress import *
 #         count+=1
 # print(count)
 """2"""
-a=ip_network('49.26.38.163/255.255.255.224',False)
-for i in a:
-    c=bin(int(i))[2:]
-
-
-
-
+# a=ip_network('49.26.38.163/255.255.255.224',False)
+# for i in a:
+#     c=bin(int(i))[2:]
 
 
 

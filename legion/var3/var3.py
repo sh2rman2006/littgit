@@ -75,14 +75,46 @@
 #             count+=1
 #     if count==1000:
 #         print(a)
-
-
-
-
-
-
-
-
+"""14"""
+# for x in range(13):
+#     a=(1*13**4+8*13**3+6*13**2+x*13+4*13**0)+(5*13**4+x*13**3+7*13**2+1*13**1+6*13**0)
+#     if a%11==0:
+#         # print(a/11)
+"""13"""
+# from ipaddress import *
+# for mask in range(32):
+#     net=ip_network(f"172.49.54.172/{mask}",False)
+#     if str(net.network_address)=="172.49.48.0":
+#         print(mask)
+# print(int("11111000",2),"///")
+"""12"""
+# a=">"+15*"2"+20*"3"+25*"5"
+# while ('>2' in a) or ('>3' in a) or ('>5' in a):
+#     if ('>2' in a) :
+#         a=a.replace(">2",'333>',1)
+#     if ('>3' in a) :
+#         a=a.replace(">3",'23>',1)
+#     if ('>5' in a) :
+#         a=a.replace(">5",'35>',1)
+# sm=0
+# for i in range(len(a)-1):
+#     sm+=int(a[i])
+# print(sm)
+"""8"""
+# from itertools import *
+# a=product("EKOR",repeat=6)
+# b=[list(i) for i in a]
+# x=0
+# for i in range(len(b)):
+#     x+=1
+#     v=True
+#     if b[i][0]=="O":
+#         if (b[i][1]=="E" and b[i][2]=="E") or (b[i][2]=="E" and b[i][3]=="E") or (b[i][3]=="E" and b[i][4]=="E")\
+#             or (b[i][4]=="E" and b[i][5]=="E"):
+#             v=False
+#         if v:
+#             print(x)
+#             break
 
 
 

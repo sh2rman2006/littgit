@@ -6,6 +6,7 @@ for i in open("9.valera.csv"):
     b=a.copy()
     b.sort()
     if (len(rep)==3 and len(notrp)==4) and a==b:
+        print(a,rep,notrp,b)
         count+=1
 print(count)
 

@@ -34,10 +34,22 @@
 #     b.add(''.join(i))
 # print(len(b))
 """9"""
-# for i in open("9.legionvar5.csv"):
-#     a=list(map(int,))
-
-
-
-
-
+# count=0
+# for i in open("9.var5.csv"):
+#     j=i.replace(",",".")
+#     a=list(map(float,j.split(";")))
+#     zim=(a[12]+a[1]+a[2])/3
+#     let=(a[6]+a[7]+a[8])/3
+#     if zim>let:
+#         print(a[0],zim,let)
+#         count+=1
+# print(count)
+"""11"""
+# Ip=3
+# kp=5
+# ip=4
+# Il=9
+# il=4
+# kl=17
+# Io=21
+# 292

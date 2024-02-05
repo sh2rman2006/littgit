@@ -6,7 +6,6 @@
 #             for w in range(2):
 #                 if ((not x)or y)and (x==(not z)) and w:
 #                     print(x,y,z,w)
-#
 # 1y 2z 3x 4w
 """4"""
 """5"""

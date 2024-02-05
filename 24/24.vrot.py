@@ -14,7 +14,6 @@ for i in range(len(file)-2):
     if file[i]+file[i+1]+file[i+2] in komb:
         for k in range(i+1,len(file)-2):
             v=1
-            count=2
             if file[k]+file[k+1]+file[k+2] in komb:
                 v+=1
                 count+=1

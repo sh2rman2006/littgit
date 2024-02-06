@@ -52,3 +52,18 @@
 # kl=17
 # Io=21
 # 292
+"""12"""
+
+for n in range(1,1001):
+    a ="0"+"2"+"4"+"6"*n
+    while ("02" in a) or  ("04" in a) or ("06" in a):
+        if ("02" in a):
+            a=a.replace("02","6404",1)
+        if ("04" in a):
+            a=a.replace("04","2206",1)
+        if ("06" in a):
+            a=a.replace("06","440",1)
+        if a.count("2")==30 and a.count("4")==54 and a.count("6")==10:
+            print(n)
+
+

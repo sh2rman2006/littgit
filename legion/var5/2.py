@@ -84,24 +84,6 @@
 #         a3.append(i)
 # print(max(a1)+max(a2)+max(a0)+max(a3))
 # print(a0)
-"""26"""
-# s=90500
-# # n=990
-# c=set()
-# a=open("26.txt")
-# b=[int(i) for i in a]
-# sm=3011+3012+3014
-# for i in b:
-#     c.add(i)
-#
-# print(sm,"sm")
-#
-# print(s-sm,'razn')
-# s=open("26_1.txt",'w')
-# for i in sorted(c):
-#     s.write(str(i))
-#     s.write('\n')
-# print(sorted(c))
 
 
 

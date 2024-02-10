@@ -1,6 +1,0 @@
-print(str([input("-")]))
-
-
-
-
-

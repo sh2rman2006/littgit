@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
+      <change afterPath="$PROJECT_DIR$/13/13.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/13.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/mask.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legion/var7/17_legvar7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legion/var7/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legion/var7/9_legvar7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legion/var7/var7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perevod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/13/13.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,32 +68,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sh2rman/Documents/GitHub/littgit/24&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/sh2rman/Documents/GitHub/littgit/legion/var7",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\legion\var7" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\24" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\26" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\9" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit" />
+      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\legion\var7" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\27" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\9" />
-      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit" />
-      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\legion\var5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.25_ya">
-    <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.var7">
+    <configuration name="13.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/чернь 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/13.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +115,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="25_ya" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/13.4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mask.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25/25_ya.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25/mask.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,28 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27/27.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="perevod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +169,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perevod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="var7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/legion/var7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legion/var7/var7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,17 +200,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.25_ya" />
-      <item itemvalue="Python.чернь 2" />
-      <item itemvalue="Python.27.2" />
-      <item itemvalue="Python.set" />
+      <item itemvalue="Python.13.4" />
+      <item itemvalue="Python.mask.1" />
+      <item itemvalue="Python.perevod" />
+      <item itemvalue="Python.var7" />
+      <item itemvalue="Python.13.2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.25_ya" />
-        <item itemvalue="Python.чернь 2" />
-        <item itemvalue="Python.27.2" />
-        <item itemvalue="Python.set" />
+        <item itemvalue="Python.var7" />
+        <item itemvalue="Python.mask.1" />
+        <item itemvalue="Python.perevod" />
+        <item itemvalue="Python.13.4" />
+        <item itemvalue="Python.13.2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00036" summary="sd">
-      <option name="closed" value="true" />
-      <created>1705845291586</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1705845291586</updated>
     </task>
     <task id="LOCAL-00037" summary="sd">
       <option name="closed" value="true" />
@@ -584,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707758951568</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="sd">
+      <option name="closed" value="true" />
+      <created>1707759225796</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1707759225796</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

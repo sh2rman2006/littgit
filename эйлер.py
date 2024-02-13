@@ -99,49 +99,28 @@ from math import *
 #     else:
 #         i+=1
 """35"""
-countch=0
-from itertools import *
-for i in range(2,1000001):
-    count=0
-    for d in range(2,int(i**0.5)+1):
-        if i%d==0:
-            break
-    else:
-        b = [list(k) for k in permutations(str(i), len(str(i)))]
-        k=0
-        for ch in b:
-            if ch[0]=='0':
-                while ch[0]=='0':
-                    ch=ch[1:]
-            ch=int(''.join(ch))
-            for dch in range(2,int(ch**0.5)+1):
-                 if ch%dch==0:
-                    k+=1
-                    break
-        if k==0:
-            countch+=1
-print(countch)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# countch=0
+# from itertools import *
+# for i in range(2,1000001):
+#     count=0
+#     for d in range(2,int(i**0.5)+1):
+#         if i%d==0:
+#             break
+#     else:
+#         b = [list(k) for k in permutations(str(i), len(str(i)))]
+#         k=0
+#         for ch in b:
+#             if ch[0]=='0':
+#                 while ch[0]=='0':
+#                     ch=ch[1:]
+#             ch=int(''.join(ch))
+#             for dch in range(2,int(ch**0.5)+1):
+#                  if ch%dch==0:
+#                     k+=1
+#                     break
+#         if k==0:
+#             countch+=1
+# print(countch)
 
 
 

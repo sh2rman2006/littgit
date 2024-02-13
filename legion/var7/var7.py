@@ -172,11 +172,10 @@
 #     mx=max(len(i),mx)
 # print(mx)
 """25"""
-for i in range(153222,153270+1):
-
-    for d in range(1,int(i**0.5)):
-        a=(i-d**2)**0.5
-        if a%1==0:
-            print(d,a,'//',i)
+# for i in range(153222,153270+1):
+#     for d in range(1,int(i**0.5)):
+#         a=(i-d**2)**0.5
+#         if a%1==0:
+#             print(d,a,'//',i)
 
 

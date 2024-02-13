@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/13/13.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/13.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/mask.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legion/var7/17_legvar7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legion/var7/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legion/var7/9_legvar7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legion/var7/var7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perevod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13/13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/13/13.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,22 +215,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00037" summary="sd">
-      <option name="closed" value="true" />
-      <created>1705851105427</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1705851105427</updated>
-    </task>
-    <task id="LOCAL-00038" summary="sd">
-      <option name="closed" value="true" />
-      <created>1705851120836</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1705851120836</updated>
     </task>
     <task id="LOCAL-00039" summary="sd">
       <option name="closed" value="true" />
@@ -617,7 +592,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707759225796</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="sd">
+      <option name="closed" value="true" />
+      <created>1707832183232</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1707832183233</updated>
+    </task>
+    <task id="LOCAL-00087" summary="sd">
+      <option name="closed" value="true" />
+      <created>1707832311855</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1707832311855</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

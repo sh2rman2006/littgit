@@ -45,12 +45,12 @@
 #         count+=1
 # print(count)
 """16"""
-def f(n):
-    if n<=1:
-        return 1/2
-    else:
-        return (n+1)*f(n-1)
-print(f(200)/f(198))
+# def f(n):
+#     if n<=1:
+#         return 1/2
+#     else:
+#         return (n+1)*f(n-1)
+# print(f(200)/f(198))
 """14"""
 # a='0123456789abcd'
 # mx=0

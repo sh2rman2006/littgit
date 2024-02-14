@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
+      <change afterPath="$PROJECT_DIR$/варианты/17_pol14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/9_pol14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/варианты/pol_14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/варианты/ya2.py" beforeDir="false" afterPath="$PROJECT_DIR$/варианты/ya2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/чернь 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +82,14 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\варианты" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\24" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\legion\var7" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
-      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\27" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ya2">
+  <component name="RunManager" selected="Python.pol_14">
     <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,27 +103,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/чернь 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="эйлер" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/эйлер.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="var7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pol_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +161,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/legion/var7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/варианты" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legion/var7/var7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/варианты/pol_14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,19 +217,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.pol_14" />
+      <item itemvalue="Python.set" />
       <item itemvalue="Python.ya2" />
       <item itemvalue="Python.24_mal" />
       <item itemvalue="Python.чернь 2" />
-      <item itemvalue="Python.эйлер" />
-      <item itemvalue="Python.var7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pol_14" />
+        <item itemvalue="Python.чернь 2" />
+        <item itemvalue="Python.set" />
         <item itemvalue="Python.ya2" />
         <item itemvalue="Python.24_mal" />
-        <item itemvalue="Python.чернь 2" />
-        <item itemvalue="Python.эйлер" />
-        <item itemvalue="Python.var7" />
       </list>
     </recent_temporary>
   </component>
@@ -237,14 +241,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00044" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706016338895</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1706016338895</updated>
     </task>
     <task id="LOCAL-00045" summary="sd">
       <option name="closed" value="true" />
@@ -630,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707921830985</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="sd">
+      <option name="closed" value="true" />
+      <created>1707925101677</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925101678</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -13,3 +13,9 @@ for n in range(100,1000):
         else:count+=1
     if count==6:
         print(n)
+
+
+
+
+
+

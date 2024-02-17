@@ -1,4 +1,4 @@
-a=[str(i.replace("\n",'')) for i in open('8 60 1 40.txt')]
+a=[str(i.replace("\n",'')) for i in open('27A_shastin.txt')]
 a=''.join(a)
 sm=0
 for i in range(len(a)):

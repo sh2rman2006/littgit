@@ -1,13 +1,13 @@
-n=8
+n=100
 k=60
 r=1
-t=40
+t=10
 
 
 
 kol=[]
 mx=0
-a=[list(map(int,i.split(' '))) for i in open('8 60 1 40.txt')]
+a=[list(map(int,i.split(' '))) for i in open('27_A_ya.txt')]
 razn=[i[0]-i[1] for i in a]
 
 for i in range(len(a)):
@@ -22,3 +22,6 @@ print(sum(kol),'//')
 print(razn[razn.index(sorted(razn)[0])],min(razn))
 
 
+
+
+"""374"""

@@ -11,7 +11,7 @@ for i in range(len(a)):
                 break
             else:
                 c1+=1
-        for l in range(i-1,0,-1):
+        for l in range(i,0,-1):
             if a[l] == '0':
                 c2 += 1
                 break

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/27/27A_shastin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27/27_shastin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27A_yaprost.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/fvdgbsfd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27/27_shastin.py" beforeDir="false" afterPath="$PROJECT_DIR$/27/27_shastin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8 60 1 40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8 60 1 40.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
@@ -91,7 +92,7 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\варианты" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.чернь">
+  <component name="RunManager" selected="Python.fvdgbsfd">
     <configuration name="чернь" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="var9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fvdgbsfd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/legion/var9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legion/var9/var9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27/fvdgbsfd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,19 +199,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.fvdgbsfd" />
       <item itemvalue="Python.27_prob" />
       <item itemvalue="Python.27_shastin" />
       <item itemvalue="Python.27_ya" />
-      <item itemvalue="Python.var9" />
       <item itemvalue="Python.чернь" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fvdgbsfd" />
         <item itemvalue="Python.чернь" />
         <item itemvalue="Python.27_shastin" />
         <item itemvalue="Python.27_ya" />
         <item itemvalue="Python.27_prob" />
-        <item itemvalue="Python.var9" />
       </list>
     </recent_temporary>
   </component>
@@ -222,22 +223,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00051" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706294467192</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1706294467192</updated>
-    </task>
-    <task id="LOCAL-00052" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706302185461</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1706302185462</updated>
     </task>
     <task id="LOCAL-00053" summary="sd">
       <option name="closed" value="true" />
@@ -615,7 +600,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708174759966</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="sd">
+      <option name="closed" value="true" />
+      <created>1708178386725</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1708178386726</updated>
+    </task>
+    <task id="LOCAL-00101" summary="sd">
+      <option name="closed" value="true" />
+      <created>1708178463337</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1708178463337</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

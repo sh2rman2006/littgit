@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/27/27A_yaprost.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27/fvdgbsfd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27A__lsnd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27B__asd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/aredgv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27/27_shastin.py" beforeDir="false" afterPath="$PROJECT_DIR$/27/27_shastin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27/27_prob.py" beforeDir="false" afterPath="$PROJECT_DIR$/27/27_prob.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8 60 1 40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8 60 1 40.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
@@ -92,7 +93,7 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\варианты" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fvdgbsfd">
+  <component name="RunManager" selected="Python.aredgv">
     <configuration name="чернь" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,27 +107,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/чернь.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="27_prob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27/27_prob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,6 +157,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aredgv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27/aredgv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fvdgbsfd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,19 +200,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.aredgv" />
       <item itemvalue="Python.fvdgbsfd" />
-      <item itemvalue="Python.27_prob" />
       <item itemvalue="Python.27_shastin" />
       <item itemvalue="Python.27_ya" />
       <item itemvalue="Python.чернь" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fvdgbsfd" />
+        <item itemvalue="Python.aredgv" />
         <item itemvalue="Python.чернь" />
+        <item itemvalue="Python.fvdgbsfd" />
         <item itemvalue="Python.27_shastin" />
         <item itemvalue="Python.27_ya" />
-        <item itemvalue="Python.27_prob" />
       </list>
     </recent_temporary>
   </component>
@@ -223,14 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00053" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706368151356</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1706368151356</updated>
     </task>
     <task id="LOCAL-00054" summary="sd">
       <option name="closed" value="true" />
@@ -616,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708178463337</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="sd">
+      <option name="closed" value="true" />
+      <created>1708186327388</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1708186327388</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -121,6 +121,35 @@ from math import *
 #         if k==0:
 #             countch+=1
 # print(countch)
+"""46"""
+# prst=[]
+# for i in range(2,10001):
+#     for d in range(2,int(i**0.5)+1):
+#         if i%d==0:
+#             break
+#     else:
+#         prst.append(i)
+# b=[]
+# for i in range(3,10001,2):
+#     count=0
+#     ch=0
+#     for k in range(3,10001,2):
+#         c=i*k
+#         ch=0
+#         b.append(c)
+#         d=[i for i in prst if i<c]
+#         for l in d:
+#             if ch>0:
+#                 break
+#             for j in range(1,26):
+#                 if l+2*(j**2)==c:
+#                     ch+=1
+#     if ch==0:
+#         print(b[-1])
+#         break
+
+
+
 
 
 

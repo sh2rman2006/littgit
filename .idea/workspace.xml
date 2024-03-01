@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/17/pl17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/pol17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/vfr2/17-384.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/vfr2/24-264 (1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/vfr2/9-vfr2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/vfr2/vfr 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27-A_keglya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27-b_keglya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/keglya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 60 1 40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8 60 1 40.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polyakov/var1/17-385.txt" beforeDir="false" afterPath="$PROJECT_DIR$/polyakov/var1/17-385.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/чернь 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +69,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.keglya.executor": "Run",
+    "Python.чернь.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -90,16 +87,17 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KONSTANTIN\Documents\GitHub\littgit\27" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov\vfr2" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
-      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov\var1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vfr 2 (1)">
+  <component name="RunManager" selected="Python.keglya">
     <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -121,6 +119,7 @@
     </configuration>
     <configuration name="чернь" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -182,8 +181,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="keglya" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27/keglya.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pl17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,6 +227,7 @@
     </configuration>
     <configuration name="vfr 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -224,29 +247,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vfr 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polyakov" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov\vfr2\vfr 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.vfr 2" />
+      <item itemvalue="Python.keglya" />
       <item itemvalue="Python.vfr 2 (1)" />
       <item itemvalue="Python.чернь 2" />
       <item itemvalue="Python.pl17" />
@@ -254,13 +256,20 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.vfr 2 (1)" />
-        <item itemvalue="Python.vfr 2" />
+        <item itemvalue="Python.keglya" />
         <item itemvalue="Python.чернь" />
+        <item itemvalue="Python.vfr 2 (1)" />
         <item itemvalue="Python.чернь 2" />
         <item itemvalue="Python.pl17" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

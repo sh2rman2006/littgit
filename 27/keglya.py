@@ -9,7 +9,7 @@
 #         mx=max(mx, max(a[i]+a[i+2*k]+a[ind],a[i]+a[ind]+a[ind+2*k]))
 # print(mx)
 """b"""
-k=73257
+# k=73257
 # n=997506
 #
 # a=[int(i) for i in open('27-b_keglya.txt')]

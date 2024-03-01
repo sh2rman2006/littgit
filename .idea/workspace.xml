@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/27/27-A_keglya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27/27-b_keglya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27/keglya.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27/keglya.py" beforeDir="false" afterPath="$PROJECT_DIR$/27/keglya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 60 1 40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8 60 1 40.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,7 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.keglya">
+  <component name="RunManager" selected="Python.чернь">
     <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="ENV_FILES" value="" />
@@ -256,8 +254,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.keglya" />
         <item itemvalue="Python.чернь" />
+        <item itemvalue="Python.keglya" />
         <item itemvalue="Python.vfr 2 (1)" />
         <item itemvalue="Python.чернь 2" />
         <item itemvalue="Python.pl17" />
@@ -279,14 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00060" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706710988842</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1706710988842</updated>
     </task>
     <task id="LOCAL-00061" summary="sd">
       <option name="closed" value="true" />
@@ -672,7 +662,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709022962714</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="sd">
+      <option name="closed" value="true" />
+      <created>1709318899889</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1709318899889</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

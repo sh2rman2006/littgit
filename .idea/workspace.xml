@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
-      <change afterPath="$PROJECT_DIR$/polyakov/pol3/17-383.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/pol3/9-pol3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polyakov/pol3/var5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 60 1 40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8 60 1 40.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polyakov/vfr2/vfr 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/polyakov/vfr2/vfr 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/sh2rman/Documents/GitHub/littgit/polyakov/pol3",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,28 +87,7 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.var5">
-    <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/чернь 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.var14">
     <configuration name="чернь" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,6 +143,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/эйлер.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="var14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/var14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +237,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.var14" />
       <item itemvalue="Python.var5" />
       <item itemvalue="Python.vfr 2" />
       <item itemvalue="Python.vfr 2 (1)" />
-      <item itemvalue="Python.чернь 2" />
       <item itemvalue="Python.чернь" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.var14" />
         <item itemvalue="Python.var5" />
         <item itemvalue="Python.vfr 2 (1)" />
         <item itemvalue="Python.чернь" />
         <item itemvalue="Python.vfr 2" />
-        <item itemvalue="Python.чернь 2" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00061" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706714637421</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1706714637421</updated>
     </task>
     <task id="LOCAL-00062" summary="sd">
       <option name="closed" value="true" />
@@ -659,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709311996035</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="sd">
+      <option name="closed" value="true" />
+      <created>1709477583973</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1709477583973</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

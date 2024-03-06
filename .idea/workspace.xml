@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb9f837-5996-4e7b-98b2-edcb97d1b4ea" name="Changes" comment="sd">
+      <change afterPath="$PROJECT_DIR$/24/24statgr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/statgr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/09statgr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/09statgr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/чернь 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/чернь.py" beforeDir="false" afterPath="$PROJECT_DIR$/чернь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +85,14 @@
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\legion\var7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\9" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov\pol3" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov\vfr2" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\polyakov" />
       <recent name="C:\Users\sh2rman\Documents\GitHub\littgit" />
-      <recent name="C:\Users\sh2rman\Documents\GitHub\littgit\17" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.чернь 2">
+  <component name="RunManager" selected="Python.09statgr">
     <configuration name="чернь 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,6 +135,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="09statgr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9/09statgr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="эйлер" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="littgit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,6 +190,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/эйлер.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="statgr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="littgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24/statgr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,62 +241,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="var5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polyakov/pol3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polyakov/pol3/var5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vfr 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="littgit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polyakov/vfr2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polyakov/vfr2/vfr 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.09statgr" />
+      <item itemvalue="Python.statgr" />
       <item itemvalue="Python.чернь 2" />
       <item itemvalue="Python.чернь" />
       <item itemvalue="Python.var14" />
-      <item itemvalue="Python.var5" />
-      <item itemvalue="Python.vfr 2 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.чернь 2" />
+        <item itemvalue="Python.09statgr" />
+        <item itemvalue="Python.statgr" />
         <item itemvalue="Python.чернь" />
+        <item itemvalue="Python.чернь 2" />
         <item itemvalue="Python.var14" />
-        <item itemvalue="Python.var5" />
-        <item itemvalue="Python.vfr 2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +266,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
-    </task>
-    <task id="LOCAL-00063" summary="sd">
-      <option name="closed" value="true" />
-      <created>1706727197697</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1706727197697</updated>
     </task>
     <task id="LOCAL-00064" summary="sd">
       <option name="closed" value="true" />
@@ -656,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709477863854</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="sd">
+      <option name="closed" value="true" />
+      <created>1709669318263</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1709669318264</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

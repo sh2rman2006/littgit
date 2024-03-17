@@ -104,7 +104,14 @@ from sys import *
 #     return string[::-1]
 # a=4*625**1920+4*125**1930-4*25**1940-3*5**1950-1960
 # print(perevod(a,5).count('0'))
-
+"""16"""
+from sys import *
+# def f(n):
+#     if n>=2022:
+#         return n
+#     else:
+#         return f(n+5)+7
+# print(f(45)-f(49))
 
 
 

@@ -87,3 +87,36 @@ from sys import *
 # for i in range(4013,10**12,4013):
 #     if fnmatch(str(i),'123?4*5679'):
 #         print(i,i/4013)
+"""23"""
+# def f(n,s):
+#     if n==s:
+#         return 1
+#     if n>s or str(n).count('5')>0:
+#         return 0
+#     return f(n+1,s)+f(n+3,s)+f(n*3,s)
+# print(f(1,49))
+""""14"""
+# def perevod(n,s):
+#     string=''
+#     while n>0:
+#         string+=str(n%s)
+#         n//=s
+#     return string[::-1]
+# a=4*625**1920+4*125**1930-4*25**1940-3*5**1950-1960
+# print(perevod(a,5).count('0'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

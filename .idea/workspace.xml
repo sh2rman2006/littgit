@@ -271,6 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702476100193</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00067" summary="sd">
       <option name="closed" value="true" />
       <created>1707078324411</created>
@@ -295,6 +296,8 @@
       <option name="project" value="LOCAL" />
       <updated>1707122531674</updated>
     </task>
+=======
+>>>>>>> Stashed changes
     <task id="LOCAL-00070" summary="sd">
       <option name="closed" value="true" />
       <created>1707158488156</created>
@@ -663,7 +666,35 @@
       <option name="project" value="LOCAL" />
       <updated>1710087144506</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="116" />
+=======
+    <task id="LOCAL-00116" summary="sd">
+      <option name="closed" value="true" />
+      <created>1710266951214</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1710266951214</updated>
+    </task>
+    <task id="LOCAL-00117" summary="sd">
+      <option name="closed" value="true" />
+      <created>1710614812837</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1710614812838</updated>
+    </task>
+    <task id="LOCAL-00118" summary="sd">
+      <option name="closed" value="true" />
+      <created>1710665964456</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1710665964456</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

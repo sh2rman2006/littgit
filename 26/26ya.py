@@ -27,4 +27,4 @@ for i in range(len(s)-1):
         count=0
 print(col,sm)
 
-
+print()

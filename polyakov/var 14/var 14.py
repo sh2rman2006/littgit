@@ -83,17 +83,17 @@
 #             mx=max(mx,a[i]**2+a[i+1]**2)
 # print(count,mx)
 """23"""
-a=[]
-def f(n,k):
-    if k==12:
-        a.append(n)
-        return 1
-    if k>12:
-        return 0
-    return f(n+1,k+1)+f(n*2-3,k+1)
-
-f(3,0)
-print(len(set(a)))
+# a=[]
+# def f(n,k):
+#     if k==12:
+#         a.append(n)
+#         return 1
+#     if k>12:
+#         return 0
+#     return f(n+1,k+1)+f(n*2-3,k+1)
+#
+# f(3,0)
+# print(len(set(a)))
 
 
 

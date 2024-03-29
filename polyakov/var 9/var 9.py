@@ -94,6 +94,50 @@
 #             flag=False
 #     if flag:
 #         print(a)
+"""24"""
+# a=open('24-1 (1).txt').readline()
+# mx=0
+# for i in range(len(a)):
+#     if a[i]=='A':
+#         ca=0
+#         count=0
+#         for k in range(i+1,len(a)):
+#             if ca==6:
+#                 mx=max(mx,count-1)
+#                 break
+#             if a[k]=='A':
+#                 ca+=1
+#                 count+=1
+#             else:
+#                 count+=1
+# print(mx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

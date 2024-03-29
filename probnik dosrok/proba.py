@@ -226,15 +226,15 @@
 #     if fnmatch(str(i),'1*2322?2'):
 #         print(i,i//2024)
 """26"""
-# file=[int(i) for i in open('26_15341.txt')]
-# file.sort(reverse=1)
-# count=0
-# s=[file[0]]
-# for i in range(len(file)):
-#     if (s[-1]-file[i])>=8:
-#         s.append(file[i])
-#         count+=1
-# print(count,s[-1])
+file=[int(i) for i in open('26_15341.txt')]
+file.sort(reverse=1)
+count=0
+s=[file[0]]
+for i in range(len(file)):
+    if (s[-1]-file[i])>=8:
+        s.append(file[i])
+        count+=1
+print(count,s[-1])
 
 
 

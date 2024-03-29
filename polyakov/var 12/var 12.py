@@ -27,26 +27,55 @@
 #         count+=1
 # print(count)
 """14"""
-for x in range(23):
-    a=[7,x,3,8,5,9,6]
-    b=[1,4,x,3,6]
-    c=[6,1,x,7]
-    for i in range(len(a)):
-        a[i]=i*23**(len(a)-1-i)
-    a=sum(a)
-    for i in range(len(b)):
-        b[i]=i*23**(len(b)-1-i)
-    b=sum(b)
-    for i in range(len(c)):
-        c[i]=i*23**(len(c)-1-i)
-    c=sum(c)
-    s=a+b+c
-    if s%22==0 :
+# def f(n,s):
+#     for i in range(len(n)):
+#         n[i]=n[i]*s**(len(n)-1-i)
+#     return sum(n)
+#
+# s=1
+# for x in range(12):
+#     for y in range(18):
+#         a=f([6,7,x,x,3],12)+f([2,x,9,x],14)+f([4,4,x,x,3],15)-f([2,x,y,7],18)
+#         if a>0 and a%77==0:
+#             s*=(x*y)
+# print(s)
+"""16"""
+# from sys import *
+# setrecursionlimit(10000)
+# def f(n):
+#     if n>2:
+#         return n+f(n-2)
+#     else:
+#         return n
+# print(f(2023)+f(2020))
+"""17"""
+# a=[int(i) for i in open('17-374.txt')]
+# ch=min([i for i in a if i%2==0])
+# count=0
+# mn=100000000
+# for i in range(len(a)-2):
+#     if (a[i]%2==0 and a[i+1]%ch==0 and a[i+2]%2==1) or (a[i+2]%2==0 and a[i+1]%ch==0 and a[i]%2==1):
+#         count+=1
+#         mn=min(mn,a[i]+a[i+2])
+# print(count,mn)
+"""19"""
+def f(n,k):
+    if n==4 and k>20:
+        return 1
+    if n==4 and k<21:
+        return 0
+    if n!=4 and k>20:
+        return 0
+    if n%2!=0:
+        return f(n+1,k+1) or f(n+1,k*2)
+    else:
+        return f(n+1,k+1) and f(n+1,k*2)
+
+for s in range(1,21):
+    if f(1,s):
         print(s)
-        a=[]
-        b=[]
-        c=[]
-        break
+
+
 
 
 
